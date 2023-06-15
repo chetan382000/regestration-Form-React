@@ -1,2 +1,2 @@
-# regestration-Form-React
+# registration-Form-React
 i developed registration form using by react js
